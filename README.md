@@ -2,7 +2,7 @@
 
 #### Creation of my first webpage by Epicodus tutorial that explains learning path, January 7, 2019
 
-#### By Maddy H. and Shawn L.
+#### Porter Savage
 
 ## Description
 
